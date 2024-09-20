@@ -11,4 +11,4 @@ Z = np.sin(R)
 
 ax.plot_surface(X, Y, Z, rstride=1, cstride=1, cmap='hot')
 
-show()
+show()#hfjka
