@@ -23,3 +23,4 @@ for i in range(24):
 plt.xticks([]), plt.yticks([])
 # savefig('../figures/text_ex.png',dpi=48)
 plt.show()
+print("hello")
